@@ -1,0 +1,21 @@
+﻿  main.cpp
+c:\users\cxl\downloads\digital image processing\homework-3+\dip_hw3+_0656632_林詠晨\opencv sample-vs2013\opencv\opencv\opencv\include\opencv2\flann\dist.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+C:\Users\cxl\Downloads\Digital Image Processing\Homework-3+\DIP_HW3+_0656632_林詠晨\openCV sample-VS2013\openCV\openCV\openCV\include\opencv2/legacy/compat.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+main.cpp(64): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+main.cpp(79): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+main.cpp(107): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+main.cpp(120): warning C4305: '=': truncation from 'double' to 'float'
+main.cpp(161): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+main.cpp(232): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+main.cpp(271): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+main.cpp(299): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+main.cpp(316): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+main.cpp(344): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+main.cpp(356): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+  Generating code
+  0 of 111 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  openCV.vcxproj -> C:\Users\cxl\Downloads\Digital Image Processing\Homework-3+\DIP_HW3+_0656632_林詠晨\openCV sample-VS2013\openCV\openCV\bin\Release\openCV.exe
+  openCV.vcxproj -> bin\Release\openCV.pdb (Full PDB)
